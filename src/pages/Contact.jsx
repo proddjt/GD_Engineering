@@ -43,7 +43,7 @@ export default function Contact() {
                         <div className="flex items-center justify-center main-text flex-col gap-3 w-full">
                             <a href="mailto:info@gdengineeringsrls.com" className="rounded-full bg-[#ce2727] px-4 py-2 text-white hover:bg-red-500 flex justify-center items-center gap-1 w-full">
                                 <MdEmail className="w-5 h-5"/>
-                                Email: <span className="text-xs select-text">mailto:info@gdengineeringsrls.com</span></a>
+                                Email: <span className="text-xs select-text">info@gdengineeringsrls.com</span></a>
                             <p className="text-black flex justify-center items-center gap-1 select-text"><FaEnvelopeCircleCheck />PEC: gdengineeringsrls@pec.it</p>
                         </div>
                     </div>
