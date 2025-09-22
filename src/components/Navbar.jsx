@@ -86,7 +86,7 @@ export default function Navbar (){
                             <li><a onClick={() => changeLanguage("en")} className="flex justify-start items-center gap-2 font-semibold main-text hover:bg-red-300"><Flag code="gb" width={"24"}/> English</a></li>
                         </ul>
                     </details>
-                    <img src="./public/media/img/gd_png.png" alt="Logo GD Engineering" className="w-12 me-5"/>
+                    <img src="/media/img/gd_png.png" alt="Logo GD Engineering" className="w-12 me-5"/>
                 </div>
             </div>
         </nav>

@@ -5,7 +5,7 @@ export default function WorkCard ({work}){
         <div className="card bg-base-100 2xl:w-96 w-72 h-[600px] shadow-sm">
             <figure>
                 <img
-                src={`./public/media/img/${work}_main_img.jpg`}
+                src={`/media/img/${work}_main_img.jpg`}
                 alt={`Immagine principale lavoro ${work}`} />
             </figure>
             <div className="card-body">

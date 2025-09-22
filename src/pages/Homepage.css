@@ -61,7 +61,7 @@
 #homepage_hero1::before {
   content: "";
   position: absolute;
-  background-image: url('./public/media/img/bg_home1.png');
+  background-image: url('/media/img/bg_home1.png');
   top: 0;
   left: 0;
   width: 100%;
@@ -76,7 +76,7 @@
 #homepage_hero2::before {
   content: "";
   position: absolute;
-  background-image: url('./public/media/img/bg_home2.jpg');
+  background-image: url('/media/img/bg_home2.jpg');
   top: 0;
   left: 0;
   width: 100%;
@@ -91,7 +91,7 @@
 #homepage_hero3::before {
   content: "";
   position: absolute;
-  background-image: url('./public/media/img/bg_home3.jpg');
+  background-image: url('/media/img/bg_home3.jpg');
   top: 0;
   left: 0;
   width: 100%;

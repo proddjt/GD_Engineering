@@ -6,7 +6,7 @@ export default function Footer (){
     <>
         <footer className="footer footer-horizontal footer-center bg-[#ce2727] text-primary-content px-10 py-5 gap-2">
             <aside className="flex lg:flex-row flex-col">
-                <img src="./public/media/img/gd_footer_png.png" alt="Logo GD Engineering footer" className="w-24"/>
+                <img src="/media/img/gd_footer_png.png" alt="Logo GD Engineering footer" className="w-24"/>
                 <div className="flex flex-col justify-center items-center">
                     <p className="font-bold heading-text">
                     <span className="text-white">Even skyscrapers were born from some little pieces of paper.</span>

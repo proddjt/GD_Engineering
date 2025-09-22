@@ -36,7 +36,7 @@ export default function Contact() {
                     <h3 className="text-2xl font-bold text-white"></h3>
                     <div className="md:w-96 h-80 rounded-lg border-2 border-[#ce2727] md:p-4 p-2 text-center shadow-lg bg-white flex justify-center items-center flex-col">
                         <figure className="flex h-24 w-24 items-center justify-center rounded-full bg-[#ce2727]">
-                            <img src="./public/media/img/gd_contact.png" alt="Avatar GDEngineering" />
+                            <img src="/media/img/gd_contact.png" alt="Avatar GDEngineering" />
                         </figure>
                         <h2 className="mt-4 text-xl font-bold text-[#ce2727] header-text">GD Engineering s.r.l.s.</h2>
                         <p className="mb-4 text-black main-text">{t("gd_contact")}</p>
